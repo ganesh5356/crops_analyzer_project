@@ -1,0 +1,15 @@
+# Ignore the archive folder
+archive (1)/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+models/*.keras
+models/*.h5
+models/*.json
+reports/*.png
+reports/*.csv
+reports/*.txt
+.streamlit/secrets.toml

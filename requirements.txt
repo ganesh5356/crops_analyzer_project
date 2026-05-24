@@ -1,0 +1,8 @@
+tensorflow-intel>=2.16,<2.19; platform_system == "Windows"
+tensorflow>=2.16; platform_system != "Windows"
+numpy>=1.26
+pillow>=10.0
+matplotlib>=3.8
+pandas>=2.2
+scikit-learn>=1.4
+streamlit>=1.34
